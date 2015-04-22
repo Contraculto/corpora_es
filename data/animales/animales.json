@@ -1,0 +1,281 @@
+{
+	"nombre": "Animales",
+	"elementos": {
+		{
+			"fs": "abeja",
+			"fp": "abejas"
+		},
+		{
+			"ms": "abejorro",
+			"mp": "abejorros"
+		},
+		{
+			"ms": "águila",
+			"fp": "águilas"
+		},
+		{
+			"ms": "alce",
+			"mp": "alces",
+			"fs": "alce",
+			"fp": "alces"
+		},
+		{
+			"fs": "ballena",
+			"fp": "ballenas"
+		},
+		{
+			"ms": "caballo",
+			"mp": "caballos",
+			"fs": "llegua",
+			"fp": "lleguas"
+		},
+		{
+			"ms": "cachalote",
+			"mp": "cachalotes"
+		},
+		{
+			"ms": "camaleón",
+			"mp": "camaleones",
+			"fs": "camaleona",
+			"fp": "camaleonas"
+		},
+		{
+			"ms": "camello",
+			"mp": "camellos"
+		},
+		{
+			"ms": "canario",
+			"mp": "canarios"
+		},
+		{
+			"ms": "cangrejo",
+			"mp": "cangrejos"
+		},
+		{
+			"ms": "canguro",
+			"mp": "canguros",
+			"fs": "cangura",
+			"fp": "canguras"
+		},
+		{
+			"ms": "capibara",
+			"mp": "capibaras",
+			"fs": "capibara",
+			"fp": "capibaras"
+		},
+		{
+			"ms": "caracol",
+			"mp": "caracoles"
+		},
+		{
+			"ms": "castor",
+			"mp": "castores",
+			"fs": "castora",
+			"fp": "castoras"
+		},
+		{
+			"ms": "cervatillo",
+			"mp": "cervatillos",
+			"fs": "cervatilla",
+			"fp": "cervatillas"
+		},
+		{
+			"ms": "ciervo",
+			"mp": "ciervos",
+			"fs": "cierva",
+			"fp": "ciervas"
+		},
+		{
+			"ms": "cisne",
+			"mp": "cisnes",
+			"fs": "cisne",
+			"fp": "cisnes"
+		},
+		{
+			"ms": "cocodrilo",
+			"mp": "cocodrilos",
+			"fs": "cocodrila",
+			"fp": "cocodrilas"
+		},
+		{
+			"ms": "cóndor",
+			"mp": "cóndores"
+		},
+		{
+			"ms": "cordero",
+			"mp": "corderos",
+			"fs": "oveja",
+			"fp": "ovejas"
+		},
+		{
+			"ms": "elefante",
+			"mp": "elefantes",
+			"fs": "elefanta",
+			"fp": "elefantas"
+		},
+		{
+			"fs": "foca",
+			"fp": "focas"
+		},
+		{
+			"ms": "gallo",
+			"mp": "gallos",
+			"fs": "gallina",
+			"fp": "gallinas"
+		},
+		{
+			"fs": "gaviota",
+			"fp": "gaviotas"
+		},
+		{
+			"ms": "gato",
+			"mp": "gatos",
+			"fs": "gata",
+			"fp": "gatas"
+		},
+		{
+			"ms": "gorila",
+			"mp": "gorilas",
+			"fs": "gorila",
+			"fp": "gorilas"
+		},
+		{
+			"ms": "guanaco",
+			"mp": "guanacos"
+		},
+		{
+			"ms": "halcón",
+			"mp": "halcones"
+		},
+		{
+			"fs": "hiena",
+			"fp": "hienas"
+		},
+		{
+			"ms": "hipopótamo",
+			"mp": "hipopótamos",
+			"fs": "hipopótama",
+			"fp": "hipopótamas"
+		},
+		{
+			"fs": "hormiga",
+			"fp": "hormigas"
+		},
+		{
+			"ms": "huemul",
+			"mp": "huemules"
+		},
+		{
+			"ms": "jaguar",
+			"mp": "jaguares"
+		},
+		{
+			"fs": "jaiba",
+			"fp": "jaibas"
+		},
+		{
+			"fs": "jirafa",
+			"fp": "jirafas"
+		},
+		{
+			"ms": "lagarto",
+			"mp": "lagartos"
+		},
+		{
+			"fs": "langosta",
+			"fp": "langostas"
+		},
+		{
+			"ms": "león",
+			"mp": "leones",
+			"fs": "leona",
+			"fp": "leonas"
+		},
+		{
+			"ms": "lobo",
+			"mp": "lobos",
+			"fs": "loba",
+			"fp": "lobas"
+		},
+		{
+			"fs": "llama",
+			"fp": "llamas"
+		},
+		{
+			"fs": "medusa",
+			"fp": "medusas"
+		},
+		{
+			"fs": "mula",
+			"fp": "mulas"
+		},
+		{
+			"ms": "murciélago",
+			"mp": "murciélagos"
+		},
+		{
+			"ms": "ornitorrinco",
+			"mp": "ornitorrincos"
+		},
+		{
+			"ms": "perro",
+			"mp": "perros",
+			"fs": "perra",
+			"fp": "perras"
+		},
+		{
+			"ms": "puma",
+			"mp": "pumas"
+		},
+		{
+			"fs": "rata",
+			"fp": "ratas"
+		},
+		{
+			"ms": "ratón",
+			"mp": "ratones",
+			"fs": "ratona",
+			"fp": "ratonas"
+		},
+		{
+			"fs": "serpiente",
+			"fp": "serpientes"
+		},
+		{
+			"ms": "tapir",
+			"mp": "tapires"
+		},
+		{
+			"ms": "tiburón",
+			"mp": "tiburones",
+			"fs": "tiburona",
+			"fp": "tiburonas"
+		},
+		{
+			"ms": "tigre",
+			"mp": "tigres",
+			"fs": "tigresa",
+			"fp": "tigresas"
+		},
+		{
+			"ms": "toro",
+			"mp": "toros",
+			"fs": "vaca",
+			"fp": "vacas"
+		},
+		{
+			"fs": "tortuga",
+			"fp": "tortugas"
+		},
+		{
+			"fs": "zebra",
+			"fp": "zebras"
+		},
+		{
+			"ms": "zorro",
+			"mp": "zorros",
+			"fs": "zorra",
+			"fp": "zorras"
+		},
+	}
+}
